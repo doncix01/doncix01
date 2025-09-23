@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doncix01</h1>
-<h3 align="center">A fullstack developer from hungary🇭🇺</h3>
+<h3 align="center">A fullstack developer student from hungary🇭🇺</h3>
 
 - 💻 I’m currently working on FiveM **Cloud Roleplay version 1.1 rework**
 
