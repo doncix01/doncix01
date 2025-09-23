@@ -9,7 +9,7 @@
 
 - 📜 All of my projects are available at [https://github.com/doncix01?tab=repositories](https://github.com/doncix01?tab=repositories)
 
-- 💬 How to reach me and write questions **My discord profile**
+- 💬 How to reach me and ask questions **My discord profile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
