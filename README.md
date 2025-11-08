@@ -3,6 +3,8 @@
 
 - 💻 I’m currently working on FiveM **Cloud Roleplay version 1.1 rework**
 
+- ⌨️ Script release is coming soon...
+
 - 💉 I’m currently learning **LUA, HTML, CSS, JS, optionally (JAVA)**
 
 - ⚙️ My second project is **Minecraft server launch in 2025 or 2026**
